@@ -1,5 +1,5 @@
 # ViRuS
-##simple notepad virus
+## simple notepad virus
 
 
 # codes given below
